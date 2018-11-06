@@ -1,0 +1,11 @@
+.DS_Store
+Pods/
+Podfile.lock
+*.xcworkspace
+xcuserdata
+logo.png
+medal_button.png
+sano*.png
+Icon-*.png
+store-icon.png
+
