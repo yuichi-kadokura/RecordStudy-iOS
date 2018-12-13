@@ -6,6 +6,7 @@
 1. Xcode 9 をダウンロードする。
 2. 本リポジトリをクローンする。
 3. ``pod install`` を実行してライブラリをインストールする。
+4. RecordStudy.xcworkspace を XCode で開く。
 
 ![RecordStudy for iOS](.github/app.jpg)
 
